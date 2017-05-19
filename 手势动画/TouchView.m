@@ -22,7 +22,6 @@
     if (self = [super initWithFrame:frame]){
     
     //Gesture 手势  Recognizer 识别器
-    //给三个imageview加上所需要的手势
     [self addGestureRecognizersToPiece:self];
     }
     return self;
