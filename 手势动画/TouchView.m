@@ -24,8 +24,6 @@
     //Gesture 手势  Recognizer 识别器
     //给三个imageview加上所需要的手势
     [self addGestureRecognizersToPiece:self];
-    [self addGestureRecognizersToPiece:self];
-    [self addGestureRecognizersToPiece:self];
     }
     return self;
 }
